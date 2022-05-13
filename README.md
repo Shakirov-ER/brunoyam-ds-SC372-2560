@@ -21,7 +21,7 @@
 13. [Нейронные сети - Перцептрон, функции активации, обратное распростронение ошибки, работа с датасетами MNIST и Fashion MNIST](https://colab.research.google.com/drive/1s7ogbMFLtPyI62p1jYt3bfQ7QlaFRWG6?usp=sharing)
 14. [Нейронные сети: CV - Сверточные нейронные сети, продолжаем работать с MNIST, выбираем лучшую модель](https://colab.research.google.com/drive/1e0V2s55Q9zAhMFq5xlPztk8jrhhcP6GN?usp=sharing)
 15. [Нейронные сети: NLP - Методы предобработки текста, методы векторизации текста](https://colab.research.google.com/drive/13S2tLoPn2r52wETQv9cLXDcL6vWwtabi?usp=sharing)
-16. Нейронные сети: NLP - Знакомство с SOTA моделями
+16. [Нейронные сети: NLP - Знакомство с SOTA моделями](https://colab.research.google.com/drive/1AL15Wb-csW4LVPTYmt8GBJdVJb2E75KD?usp=sharing)
 17. Хорошие практики Data Science
 18. Теория воспроизводимых вычислений; знакомство со snakeMake
 
